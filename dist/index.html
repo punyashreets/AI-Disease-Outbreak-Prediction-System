@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <title>Disease Outbreak Prediction System</title>
+    <script type="module" crossorigin src="/assets/index-BCJPmh6M.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-BvOHW_cA.css">
+  </head>
+  <body class="dark">
+    <script>
+      // Apply dark mode immediately before React loads (prevents flash)
+      (function() {
+        var dark = localStorage.getItem('darkMode');
+        if (dark === 'false') {
+          document.documentElement.classList.remove('dark');
+          document.body.classList.remove('dark');
+        }
+      })();
+    </script>
+    <div id="root"></div>
+  </body>
+</html>

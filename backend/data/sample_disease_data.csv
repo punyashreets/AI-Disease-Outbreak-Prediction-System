@@ -1,0 +1,41 @@
+disease_name,state,district,cases,deaths,recovered,date
+Dengue,Maharashtra,Mumbai,120,3,95,2025-01-15
+Dengue,Maharashtra,Pune,85,2,70,2025-01-15
+Dengue,Delhi,New Delhi,95,4,78,2025-01-15
+Malaria,Kerala,Thiruvananthapuram,210,5,180,2025-01-15
+Malaria,Kerala,Kochi,180,4,155,2025-01-15
+Cholera,West Bengal,Kolkata,75,8,60,2025-01-15
+Typhoid,Uttar Pradesh,Lucknow,65,1,55,2025-01-15
+Influenza,Karnataka,Bangalore,340,2,320,2025-01-15
+Dengue,Maharashtra,Mumbai,145,5,120,2025-02-15
+Dengue,Delhi,New Delhi,110,3,90,2025-02-15
+Malaria,Kerala,Thiruvananthapuram,195,4,170,2025-02-15
+Malaria,Maharashtra,Nagpur,160,3,140,2025-02-15
+Cholera,West Bengal,Kolkata,90,6,75,2025-02-15
+Cholera,West Bengal,Howrah,55,3,45,2025-02-15
+Typhoid,Uttar Pradesh,Kanpur,80,2,70,2025-02-15
+Influenza,Karnataka,Bangalore,310,1,295,2025-02-15
+Influenza,Tamil Nadu,Chennai,280,2,265,2025-02-15
+COVID-19,Delhi,New Delhi,450,12,420,2025-02-15
+Dengue,Maharashtra,Mumbai,200,6,170,2025-06-15
+Dengue,Maharashtra,Pune,150,4,130,2025-06-15
+Dengue,Delhi,New Delhi,180,5,155,2025-06-15
+Dengue,Karnataka,Bangalore,95,2,82,2025-06-15
+Malaria,Kerala,Thiruvananthapuram,280,8,250,2025-06-15
+Malaria,Kerala,Kochi,240,6,215,2025-06-15
+Malaria,Maharashtra,Nagpur,195,4,175,2025-06-15
+Cholera,West Bengal,Kolkata,150,10,120,2025-06-15
+Cholera,West Bengal,Howrah,95,7,80,2025-06-15
+Typhoid,Uttar Pradesh,Lucknow,110,3,95,2025-06-15
+Influenza,Karnataka,Bangalore,180,1,170,2025-06-15
+COVID-19,Delhi,New Delhi,520,15,485,2025-06-15
+Leptospirosis,Kerala,Kochi,45,2,38,2025-06-15
+Dengue,Maharashtra,Mumbai,380,10,340,2025-08-15
+Dengue,Maharashtra,Pune,290,7,260,2025-08-15
+Dengue,Delhi,New Delhi,342,9,310,2025-08-15
+Malaria,Kerala,Thiruvananthapuram,350,12,320,2025-08-15
+Malaria,Maharashtra,Nagpur,280,8,255,2025-08-15
+Cholera,West Bengal,Kolkata,220,15,190,2025-08-15
+Typhoid,Uttar Pradesh,Lucknow,180,4,160,2025-08-15
+Influenza,Karnataka,Bangalore,120,0,115,2025-08-15
+COVID-19,Delhi,New Delhi,380,8,360,2025-08-15

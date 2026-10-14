@@ -1,0 +1,18 @@
+state,district,city,temperature,humidity,rainfall,wind_speed
+Maharashtra,Mumbai,Mumbai,32.5,78,45.2,12.3
+Maharashtra,Pune,Pune,30.2,65,12.5,8.7
+Maharashtra,Nagpur,Nagpur,38.5,45,2.3,15.2
+Delhi,New Delhi,New Delhi,35.8,55,5.8,10.5
+Delhi,North Delhi,North Delhi,36.2,52,4.2,11.3
+Karnataka,Bangalore,Bangalore,26.5,72,22.5,6.8
+Karnataka,Mysore,Mysore,28.3,68,18.7,7.5
+Tamil Nadu,Chennai,Chennai,34.2,82,35.6,14.5
+Tamil Nadu,Coimbatore,Coimbatore,32.8,70,15.3,9.2
+West Bengal,Kolkata,Kolkata,33.5,85,85.2,8.5
+West Bengal,Howrah,Howrah,33.2,83,78.5,7.8
+Uttar Pradesh,Lucknow,Lucknow,37.5,60,8.5,12.8
+Uttar Pradesh,Kanpur,Kanpur,38.2,55,5.2,14.5
+Gujarat,Ahmedabad,Ahmedabad,39.5,42,1.5,18.5
+Gujarat,Surat,Surat,36.8,65,25.8,13.2
+Kerala,Thiruvananthapuram,Thiruvananthapuram,29.5,88,120.5,6.5
+Kerala,Kochi,Kochi,30.2,85,95.3,7.8
